@@ -1,8 +1,6 @@
 import subprocess
 import os
 
-# ffmpeg -i Why_leave_EU.mp4 -c:a pcm_s16le Why_leave_EU.wav
-# ffmpeg -i C\ Response.m4a -c:a pcm_s16le C\ Response.wav
 
 audio_file = ""
 output_file_prompt = ""
